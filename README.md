@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Enrique Gonzalez Aretos
+- 👀 I’m interested in Game Engine development
+- 🌱 I’m currently learning Computer Graphics Programming with OpenGL and C++
